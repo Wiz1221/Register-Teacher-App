@@ -1,4 +1,4 @@
-# Ufinity-Teacher-App
+# Register-Teacher-App
 
 ### Requirements
 
