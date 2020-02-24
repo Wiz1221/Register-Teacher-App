@@ -13,7 +13,7 @@ Install the dependencies and devDependencies and start the server.
 
 For backend: 
 ```sh
-$ git clone https://github.com/Wiz1221/ClinicQueue-redux-frontend.git
+$ git clone https://github.com/Wiz1221/Ufinity-Teacher-App.git
 $ cd Ufinity-Teacher-App
 $ npm install
 $ npm start
@@ -22,7 +22,6 @@ $ npm start
 ### Setting up database
 
 Please import the file database.sql into MySql
-
 
 ### Setting up data
 
